@@ -1,0 +1,301 @@
+Order_ID,Region,Vehicle_Type,Distance_km,Delivery_Time_hr,Shipment_Volume,Package_Weight_kg,Transportation_Cost,Weather,Delivery_Status
+ORD1001,South,Bike,91.7,2.86,6,7.0,1027.25,Clear,On Time
+ORD1002,West,Van,35.0,1.05,10,15.3,640.34,Clear,On Time
+ORD1003,West,Van,12.1,0.56,8,12.7,332.69,Clear,On Time
+ORD1004,East,Van,6.3,0.4,8,10.7,248.73,Clear,On Time
+ORD1005,North,Van,17.2,0.75,11,17.9,577.64,Clear,On Time
+ORD1006,North,Truck,57.2,1.77,10,8.2,924.8,Clear,Delayed
+ORD1007,North,Van,13.9,0.8,13,10.8,499.92,Clear,Delayed
+ORD1008,West,Bike,62.9,2.08,6,5.7,751.15,Clear,On Time
+ORD1009,East,Truck,55.3,1.74,7,10.3,876.88,Clear,On Time
+ORD1010,East,Bike,34.2,1.44,9,9.2,493.45,Rainy,On Time
+ORD1011,North,Van,22.3,1.08,12,13.5,510.99,Clear,On Time
+ORD1012,West,Bike,31.0,1.16,6,7.8,561.7,Rainy,On Time
+ORD1013,West,Bike,46.0,1.8,7,13.4,614.07,Clear,On Time
+ORD1014,North,Truck,14.3,0.54,8,5.8,497.53,Clear,On Time
+ORD1015,North,Truck,86.1,3.15,11,18.4,1351.13,Rainy,On Time
+ORD1016,North,Van,45.8,1.7,8,13.6,800.45,Stormy,On Time
+ORD1017,South,Van,49.1,1.54,9,17.1,823.29,Clear,On Time
+ORD1018,East,Bike,55.0,1.86,10,21.0,825.87,Clear,Delayed
+ORD1019,South,Bike,81.0,3.06,8,5.8,878.77,Rainy,On Time
+ORD1020,South,Bike,41.7,1.84,8,7.4,593.73,Rainy,On Time
+ORD1021,East,Van,57.2,1.59,9,18.3,864.51,Clear,Delayed
+ORD1022,North,Van,22.6,0.81,12,16.7,478.11,Clear,On Time
+ORD1023,South,Van,103.2,2.92,13,20.1,1487.67,Clear,Delayed
+ORD1024,South,Bike,39.8,1.69,9,15.3,615.96,Clear,Delayed
+ORD1025,South,Truck,22.5,1.04,12,20.6,726.59,Clear,On Time
+ORD1026,West,Van,26.8,0.72,6,12.6,580.44,Clear,On Time
+ORD1027,North,Van,8.3,0.52,11,24.1,554.21,Clear,On Time
+ORD1028,South,Van,26.7,1.39,10,17.8,565.91,Rainy,On Time
+ORD1029,East,Van,5.3,0.44,10,11.3,329.77,Clear,On Time
+ORD1030,North,Bike,59.9,1.93,8,16.2,688.44,Clear,On Time
+ORD1031,East,Bike,48.2,1.83,10,7.7,665.69,Rainy,On Time
+ORD1032,North,Truck,18.0,0.8,13,13.6,540.98,Rainy,Delayed
+ORD1033,North,Bike,35.4,1.5,8,16.4,617.15,Clear,Delayed
+ORD1034,West,Bike,36.5,1.73,11,11.9,612.72,Clear,On Time
+ORD1035,West,Bike,15.4,0.54,8,8.2,366.84,Clear,On Time
+ORD1036,West,Bike,31.5,1.33,5,4.5,304.32,Clear,On Time
+ORD1037,South,Truck,37.3,1.2,10,19.9,806.61,Clear,On Time
+ORD1038,North,Van,30.9,1.08,5,7.3,546.79,Clear,Delayed
+ORD1039,East,Van,22.5,1.13,8,13.7,580.6,Clear,On Time
+ORD1040,South,Bike,17.5,1.03,16,16.9,548.03,Clear,On Time
+ORD1041,North,Van,30.2,1.12,11,20.2,662.16,Clear,On Time
+ORD1042,South,Van,24.4,1.0,6,11.0,548.16,Clear,On Time
+ORD1043,North,Bike,52.7,1.59,8,9.4,585.69,Clear,On Time
+ORD1044,West,Van,84.1,2.56,4,5.3,1044.42,Clear,Delayed
+ORD1045,North,Bike,64.9,2.02,4,4.1,705.71,Clear,On Time
+ORD1046,East,Van,38.1,1.39,9,19.5,727.96,Rainy,On Time
+ORD1047,South,Van,23.1,0.85,10,16.7,435.1,Clear,On Time
+ORD1048,East,Bike,63.8,2.22,9,18.9,971.29,Rainy,Delayed
+ORD1049,East,Bike,54.8,1.93,5,5.8,663.92,Rainy,Delayed
+ORD1050,North,Van,80.5,2.31,7,13.1,1139.69,Clear,On Time
+ORD1051,West,Van,41.7,1.19,8,14.8,735.97,Clear,On Time
+ORD1052,West,Truck,99.9,2.78,8,13.9,1574.44,Clear,On Time
+ORD1053,West,Van,41.7,1.36,5,10.7,560.54,Clear,On Time
+ORD1054,West,Bike,23.0,0.95,6,7.7,415.53,Rainy,Delayed
+ORD1055,East,Bike,26.0,1.35,14,12.5,615.99,Clear,On Time
+ORD1056,West,Van,51.2,1.62,12,20.5,904.19,Clear,On Time
+ORD1057,North,Bike,24.4,1.05,5,9.0,369.66,Clear,On Time
+ORD1058,North,Van,99.5,2.95,9,14.1,1322.71,Clear,On Time
+ORD1059,North,Truck,48.5,1.74,7,7.1,784.01,Clear,On Time
+ORD1060,South,Van,37.5,1.6,5,7.3,552.19,Clear,On Time
+ORD1061,South,Bike,39.6,1.26,6,7.0,548.42,Clear,On Time
+ORD1062,North,Van,30.7,1.51,13,17.4,756.73,Stormy,On Time
+ORD1063,West,Van,10.0,0.57,10,16.7,380.95,Clear,On Time
+ORD1064,South,Van,26.1,1.07,8,14.5,525.27,Clear,On Time
+ORD1065,South,Truck,92.1,2.97,12,12.6,1463.67,Clear,On Time
+ORD1066,East,Bike,42.4,1.48,11,14.4,678.46,Clear,On Time
+ORD1067,North,Truck,69.5,2.24,12,13.2,1089.08,Clear,On Time
+ORD1068,West,Truck,70.7,2.24,14,14.0,1199.73,Clear,On Time
+ORD1069,North,Bike,35.7,1.48,10,18.8,644.0,Clear,On Time
+ORD1070,West,Bike,55.3,2.13,8,16.5,846.17,Clear,On Time
+ORD1071,West,Bike,10.8,0.48,6,7.5,242.14,Clear,On Time
+ORD1072,North,Bike,87.6,2.97,9,16.4,1152.95,Rainy,Delayed
+ORD1073,North,Bike,83.3,2.86,10,20.5,1094.73,Clear,On Time
+ORD1074,West,Van,50.3,1.42,7,13.8,738.62,Clear,On Time
+ORD1075,East,Bike,43.4,1.49,8,7.8,545.8,Clear,On Time
+ORD1076,West,Bike,36.0,1.86,8,17.1,725.84,Stormy,On Time
+ORD1077,West,Truck,74.5,2.31,11,13.9,1210.74,Clear,On Time
+ORD1078,North,Bike,59.4,2.06,11,13.3,887.74,Clear,On Time
+ORD1079,South,Truck,28.5,1.14,7,5.6,452.02,Stormy,On Time
+ORD1080,North,Bike,15.9,0.4,5,7.1,474.6,Rainy,On Time
+ORD1081,West,Bike,13.8,0.77,5,4.3,338.34,Rainy,On Time
+ORD1082,East,Van,74.0,2.07,5,5.4,959.79,Clear,On Time
+ORD1083,South,Van,35.5,1.56,10,11.8,637.05,Clear,On Time
+ORD1084,North,Truck,49.8,1.83,8,15.3,933.67,Rainy,On Time
+ORD1085,South,Van,38.5,1.74,12,24.2,836.7,Stormy,On Time
+ORD1086,South,Truck,13.9,0.86,9,10.4,430.68,Clear,On Time
+ORD1087,West,Bike,11.0,0.98,13,25.8,505.3,Clear,On Time
+ORD1088,East,Bike,27.1,1.12,11,21.8,633.68,Clear,On Time
+ORD1089,West,Truck,28.7,1.24,5,9.2,459.66,Rainy,On Time
+ORD1090,South,Truck,28.7,0.76,4,3.7,483.78,Clear,Delayed
+ORD1091,North,Truck,29.3,0.98,6,10.4,491.33,Clear,Delayed
+ORD1092,East,Van,117.9,3.59,11,23.3,1677.92,Clear,On Time
+ORD1093,West,Bike,68.8,2.32,6,10.3,813.04,Clear,On Time
+ORD1094,East,Truck,42.8,1.36,5,6.0,620.14,Clear,On Time
+ORD1095,West,Bike,34.9,1.32,11,16.0,587.42,Clear,On Time
+ORD1096,South,Truck,35.7,1.34,7,11.7,689.36,Clear,On Time
+ORD1097,East,Truck,58.0,1.82,11,16.1,1019.82,Clear,Delayed
+ORD1098,South,Van,34.7,1.23,12,10.6,591.68,Clear,On Time
+ORD1099,North,Truck,64.5,1.73,6,7.0,899.82,Clear,Delayed
+ORD1100,North,Truck,45.9,1.82,9,17.1,872.39,Clear,On Time
+ORD1101,North,Bike,118.6,3.5,7,13.9,1313.43,Clear,On Time
+ORD1102,East,Truck,33.3,1.42,10,9.1,647.64,Clear,On Time
+ORD1103,South,Van,71.9,2.11,12,25.5,1163.01,Clear,Delayed
+ORD1104,South,Truck,17.0,1.01,14,16.7,580.04,Clear,On Time
+ORD1105,West,Bike,23.5,0.9,5,8.5,456.53,Clear,Delayed
+ORD1106,North,Truck,109.1,4.45,9,16.4,1656.08,Stormy,On Time
+ORD1107,South,Bike,62.9,1.89,6,11.5,787.3,Clear,On Time
+ORD1108,West,Bike,50.3,1.95,12,25.4,854.62,Rainy,Delayed
+ORD1109,North,Truck,120.0,3.31,9,10.5,1720.49,Clear,On Time
+ORD1110,North,Bike,35.2,1.63,4,8.0,413.5,Rainy,On Time
+ORD1111,South,Bike,71.8,2.65,11,9.9,984.87,Rainy,On Time
+ORD1112,North,Truck,75.1,1.88,13,22.8,1363.43,Clear,Delayed
+ORD1113,West,Truck,94.9,2.68,8,14.5,1556.77,Clear,Delayed
+ORD1114,West,Van,15.6,0.9,9,15.4,580.28,Clear,On Time
+ORD1115,East,Van,35.0,0.84,3,3.2,449.28,Clear,On Time
+ORD1116,West,Van,45.4,2.07,7,14.1,730.17,Stormy,Delayed
+ORD1117,West,Bike,94.0,3.09,3,2.9,1134.68,Rainy,On Time
+ORD1118,North,Bike,49.0,2.35,12,9.4,719.07,Stormy,On Time
+ORD1119,West,Van,75.2,2.53,12,21.3,1189.55,Clear,Delayed
+ORD1120,East,Truck,14.5,0.53,9,12.7,361.68,Rainy,On Time
+ORD1121,West,Truck,29.8,1.61,15,29.6,830.38,Stormy,On Time
+ORD1122,West,Truck,83.1,2.8,14,17.9,1492.61,Clear,On Time
+ORD1123,South,Bike,32.5,1.12,3,2.9,501.51,Clear,Delayed
+ORD1124,North,Van,37.0,1.47,13,25.4,768.62,Rainy,Delayed
+ORD1125,North,Bike,93.0,3.21,8,12.2,1085.3,Clear,Delayed
+ORD1126,South,Van,19.8,1.08,10,9.8,406.25,Rainy,On Time
+ORD1127,West,Van,23.2,0.52,7,12.5,448.8,Clear,Delayed
+ORD1128,West,Truck,13.4,0.87,9,13.2,330.37,Rainy,Delayed
+ORD1129,North,Bike,95.3,2.97,10,16.1,1172.84,Clear,On Time
+ORD1130,South,Bike,68.1,2.26,8,11.1,952.83,Clear,Delayed
+ORD1131,South,Bike,67.0,2.41,9,17.5,937.2,Clear,On Time
+ORD1132,North,Truck,29.2,1.01,7,13.6,689.81,Rainy,On Time
+ORD1133,North,Van,12.7,0.4,8,14.1,462.65,Rainy,On Time
+ORD1134,South,Bike,10.2,0.95,11,9.4,324.27,Clear,On Time
+ORD1135,West,Bike,83.4,2.94,10,19.6,1052.51,Clear,On Time
+ORD1136,South,Van,52.5,1.96,10,17.1,838.52,Rainy,On Time
+ORD1137,South,Bike,58.9,1.94,3,5.2,596.44,Clear,On Time
+ORD1138,East,Truck,44.0,1.48,7,8.7,763.51,Rainy,On Time
+ORD1139,South,Van,21.3,0.93,10,20.2,402.99,Clear,On Time
+ORD1140,West,Bike,30.2,1.01,5,8.9,507.12,Clear,On Time
+ORD1141,West,Bike,17.7,0.94,14,12.2,478.29,Clear,On Time
+ORD1142,North,Truck,16.1,0.78,9,11.8,484.39,Clear,Delayed
+ORD1143,South,Bike,64.6,2.38,12,24.4,1035.46,Rainy,On Time
+ORD1144,South,Bike,10.9,0.51,7,5.4,301.71,Clear,On Time
+ORD1145,South,Truck,17.8,0.82,9,19.3,625.56,Clear,Delayed
+ORD1146,North,Truck,31.4,1.54,8,13.7,686.95,Rainy,On Time
+ORD1147,East,Truck,39.3,1.2,12,19.8,794.96,Clear,On Time
+ORD1148,South,Truck,13.3,0.74,9,10.0,397.11,Clear,On Time
+ORD1149,North,Bike,48.6,2.48,12,12.9,619.5,Stormy,Delayed
+ORD1150,North,Bike,42.4,0.98,3,6.3,497.71,Clear,On Time
+ORD1151,West,Truck,82.6,2.36,6,6.9,1196.69,Clear,Delayed
+ORD1152,North,Van,39.7,1.83,6,11.2,685.03,Stormy,On Time
+ORD1153,North,Van,51.8,1.71,7,9.0,738.57,Clear,Delayed
+ORD1154,South,Truck,22.1,1.0,13,11.8,504.44,Clear,Delayed
+ORD1155,West,Bike,22.8,0.92,6,4.3,278.2,Clear,Delayed
+ORD1156,North,Van,14.4,0.76,8,12.1,374.27,Rainy,On Time
+ORD1157,East,Bike,22.3,0.61,8,17.3,602.21,Clear,On Time
+ORD1158,West,Van,29.9,1.31,14,17.6,691.51,Clear,On Time
+ORD1159,North,Bike,77.6,2.9,10,12.4,1038.6,Rainy,On Time
+ORD1160,West,Bike,20.0,0.86,9,10.9,386.25,Rainy,On Time
+ORD1161,South,Bike,120.0,4.19,9,13.3,1287.21,Clear,Delayed
+ORD1162,East,Van,54.7,1.84,5,6.8,707.66,Clear,Delayed
+ORD1163,East,Van,47.8,1.43,11,22.2,870.07,Clear,On Time
+ORD1164,East,Van,37.7,1.72,14,20.4,672.59,Rainy,On Time
+ORD1165,North,Truck,33.1,1.34,7,10.2,582.24,Clear,On Time
+ORD1166,West,Bike,24.7,0.79,10,9.1,443.24,Clear,On Time
+ORD1167,South,Bike,12.9,0.8,10,21.7,388.78,Rainy,On Time
+ORD1168,North,Truck,20.5,0.98,10,10.7,398.06,Rainy,On Time
+ORD1169,North,Bike,95.2,2.63,4,3.2,1035.77,Clear,On Time
+ORD1170,East,Truck,52.6,1.94,9,15.3,940.56,Rainy,On Time
+ORD1171,East,Bike,94.7,3.26,10,15.9,1213.34,Clear,On Time
+ORD1172,North,Truck,24.2,1.27,8,10.6,478.99,Rainy,On Time
+ORD1173,South,Bike,17.3,0.69,7,9.3,420.71,Clear,On Time
+ORD1174,North,Truck,37.4,1.57,5,9.4,749.12,Clear,On Time
+ORD1175,East,Van,21.0,0.88,17,16.9,619.15,Rainy,Delayed
+ORD1176,North,Truck,42.7,1.56,12,23.2,870.79,Clear,On Time
+ORD1177,East,Bike,11.0,0.41,10,16.7,414.43,Clear,On Time
+ORD1178,South,Van,7.6,0.53,8,10.6,285.83,Rainy,On Time
+ORD1179,West,Truck,46.7,1.78,14,19.4,900.18,Rainy,On Time
+ORD1180,North,Van,96.8,2.81,5,5.4,1258.94,Clear,Delayed
+ORD1181,South,Van,48.0,1.85,11,20.1,854.19,Rainy,Delayed
+ORD1182,North,Van,52.3,1.54,9,13.2,903.05,Clear,On Time
+ORD1183,West,Van,38.5,1.19,9,10.6,643.12,Clear,On Time
+ORD1184,West,Van,40.9,1.63,6,9.6,637.25,Clear,Delayed
+ORD1185,North,Van,12.4,0.76,10,21.9,447.71,Clear,Delayed
+ORD1186,East,Truck,21.6,0.66,6,8.1,407.41,Stormy,On Time
+ORD1187,West,Bike,77.1,2.55,7,14.6,1013.61,Clear,On Time
+ORD1188,East,Bike,29.4,1.12,9,11.0,643.19,Clear,On Time
+ORD1189,East,Truck,76.1,2.12,6,4.7,1099.39,Clear,Delayed
+ORD1190,North,Truck,40.2,2.05,14,14.1,787.61,Stormy,On Time
+ORD1191,North,Van,41.5,1.72,12,15.9,728.78,Clear,Delayed
+ORD1192,West,Van,29.6,0.97,10,10.3,541.2,Clear,On Time
+ORD1193,West,Bike,57.2,1.87,7,4.9,803.73,Clear,On Time
+ORD1194,East,Bike,66.0,2.14,10,20.7,902.93,Clear,On Time
+ORD1195,South,Van,20.7,1.0,10,19.7,520.28,Clear,On Time
+ORD1196,South,Bike,13.3,0.55,4,7.3,228.89,Rainy,On Time
+ORD1197,West,Van,8.7,0.61,8,7.6,327.6,Stormy,On Time
+ORD1198,West,Bike,50.7,1.71,9,7.9,691.99,Clear,On Time
+ORD1199,West,Truck,47.1,1.69,9,7.2,746.44,Rainy,On Time
+ORD1200,West,Truck,120.0,4.81,8,14.3,1708.54,Stormy,On Time
+ORD1201,East,Van,38.7,1.88,7,14.7,764.69,Rainy,On Time
+ORD1202,North,Van,34.2,1.18,6,8.1,573.82,Clear,Delayed
+ORD1203,North,Bike,43.6,1.61,11,9.7,669.46,Clear,Delayed
+ORD1204,West,Truck,45.1,1.06,6,8.8,771.95,Clear,Delayed
+ORD1205,East,Van,32.5,1.03,9,11.0,682.02,Clear,Delayed
+ORD1206,North,Bike,21.2,1.01,9,11.4,393.05,Rainy,On Time
+ORD1207,North,Truck,37.3,1.5,9,14.7,721.71,Stormy,On Time
+ORD1208,East,Truck,36.4,1.42,7,12.4,685.79,Stormy,On Time
+ORD1209,North,Truck,36.0,1.5,9,7.8,580.96,Clear,On Time
+ORD1210,North,Van,61.0,1.89,8,6.0,816.83,Clear,On Time
+ORD1211,East,Van,36.9,1.76,11,24.1,828.9,Stormy,Delayed
+ORD1212,East,Van,13.6,0.58,8,8.4,412.45,Rainy,On Time
+ORD1213,East,Truck,23.7,1.12,9,7.0,568.39,Clear,On Time
+ORD1214,North,Truck,32.2,1.45,10,9.8,621.02,Stormy,On Time
+ORD1215,East,Bike,38.0,1.5,9,6.8,544.99,Rainy,On Time
+ORD1216,North,Bike,51.4,1.43,7,9.0,592.04,Clear,On Time
+ORD1217,South,Bike,38.2,1.43,10,19.0,725.2,Clear,On Time
+ORD1218,West,Truck,7.7,0.4,8,9.7,388.7,Clear,Delayed
+ORD1219,East,Truck,14.8,0.99,9,12.3,505.68,Clear,On Time
+ORD1220,West,Bike,53.6,2.28,12,20.6,935.85,Clear,On Time
+ORD1221,East,Van,31.6,1.04,8,11.7,614.02,Rainy,Delayed
+ORD1222,East,Bike,40.4,1.3,10,19.9,786.56,Clear,Delayed
+ORD1223,North,Truck,29.0,0.99,9,18.0,654.15,Clear,Delayed
+ORD1224,South,Truck,23.7,0.69,7,5.0,384.67,Clear,Delayed
+ORD1225,North,Truck,29.7,1.03,7,13.1,664.46,Clear,On Time
+ORD1226,North,Van,40.7,1.96,15,20.9,729.38,Stormy,On Time
+ORD1227,West,Van,36.7,1.47,13,28.4,830.78,Clear,On Time
+ORD1228,South,Bike,65.8,2.27,6,8.5,861.65,Clear,On Time
+ORD1229,West,Bike,11.7,0.66,13,28.3,547.72,Rainy,On Time
+ORD1230,East,Truck,12.9,0.82,9,16.5,579.27,Clear,On Time
+ORD1231,West,Truck,31.4,0.94,8,8.6,506.36,Clear,On Time
+ORD1232,South,Truck,51.8,1.86,5,7.5,825.05,Clear,On Time
+ORD1233,East,Truck,58.9,1.98,6,13.1,970.75,Clear,On Time
+ORD1234,South,Van,24.3,0.83,6,11.9,419.13,Clear,On Time
+ORD1235,North,Truck,5.0,0.4,5,4.2,160.14,Clear,On Time
+ORD1236,West,Truck,24.9,0.7,8,14.1,528.53,Clear,On Time
+ORD1237,South,Truck,47.2,2.17,10,12.2,797.24,Stormy,Delayed
+ORD1238,North,Bike,36.2,1.31,8,5.7,529.85,Clear,On Time
+ORD1239,East,Van,53.0,1.8,7,9.1,760.45,Clear,On Time
+ORD1240,North,Bike,75.5,2.83,8,8.4,935.08,Clear,On Time
+ORD1241,West,Truck,32.9,0.86,5,9.6,646.34,Clear,Delayed
+ORD1242,West,Van,26.8,0.96,10,12.1,593.69,Rainy,On Time
+ORD1243,West,Bike,19.2,0.97,11,21.4,504.58,Clear,On Time
+ORD1244,South,Van,12.9,1.1,12,8.4,418.69,Stormy,On Time
+ORD1245,North,Van,10.5,0.53,12,13.9,475.17,Clear,On Time
+ORD1246,West,Bike,22.7,0.97,9,9.6,475.35,Clear,Delayed
+ORD1247,South,Bike,69.2,2.61,11,11.6,1015.88,Clear,Delayed
+ORD1248,West,Van,56.2,2.12,10,8.0,904.13,Stormy,On Time
+ORD1249,West,Van,26.0,1.04,9,8.8,612.77,Clear,Delayed
+ORD1250,West,Truck,120.0,3.06,4,6.1,1519.07,Clear,Delayed
+ORD1251,South,Van,23.8,0.86,6,6.8,454.69,Clear,On Time
+ORD1252,South,Truck,79.9,2.78,8,10.6,1214.04,Rainy,Delayed
+ORD1253,West,Van,91.5,2.72,8,10.1,1222.2,Clear,On Time
+ORD1254,South,Van,49.2,1.66,9,18.1,795.59,Rainy,On Time
+ORD1255,North,Truck,22.5,0.69,6,12.3,533.49,Clear,On Time
+ORD1256,East,Van,28.4,1.28,8,11.5,455.1,Clear,On Time
+ORD1257,West,Bike,41.3,1.52,8,9.6,634.15,Clear,On Time
+ORD1258,East,Bike,13.2,0.81,8,6.9,290.75,Clear,Delayed
+ORD1259,East,Truck,17.9,0.78,8,17.0,482.3,Clear,Delayed
+ORD1260,North,Van,16.9,0.97,11,8.7,462.83,Clear,On Time
+ORD1261,East,Van,51.6,1.81,8,9.2,793.5,Rainy,Delayed
+ORD1262,West,Bike,75.0,2.35,10,11.5,1014.22,Clear,On Time
+ORD1263,North,Bike,57.6,2.06,8,9.4,707.1,Clear,On Time
+ORD1264,South,Bike,67.5,2.34,6,5.7,799.31,Clear,On Time
+ORD1265,West,Bike,21.2,0.76,9,16.9,540.67,Clear,On Time
+ORD1266,West,Van,29.3,1.12,13,11.5,634.2,Clear,Delayed
+ORD1267,East,Bike,30.8,1.03,5,8.3,499.02,Clear,Delayed
+ORD1268,East,Van,49.1,1.93,10,8.9,840.72,Clear,On Time
+ORD1269,South,Truck,23.1,1.07,8,6.4,472.56,Rainy,On Time
+ORD1270,South,Bike,65.0,2.71,10,20.6,898.57,Stormy,On Time
+ORD1271,West,Van,89.9,2.73,11,10.8,1278.63,Clear,On Time
+ORD1272,West,Truck,50.7,1.48,7,13.5,872.73,Clear,Delayed
+ORD1273,West,Bike,28.4,1.02,12,18.2,659.5,Clear,On Time
+ORD1274,West,Van,19.9,0.75,7,5.7,429.12,Clear,On Time
+ORD1275,South,Truck,16.9,0.72,10,21.3,515.36,Clear,On Time
+ORD1276,South,Truck,7.7,0.48,10,10.7,374.5,Clear,On Time
+ORD1277,West,Bike,31.4,1.27,8,15.9,518.48,Rainy,On Time
+ORD1278,East,Truck,30.2,1.44,8,7.6,644.17,Rainy,On Time
+ORD1279,East,Van,62.5,1.89,9,17.8,905.16,Clear,On Time
+ORD1280,West,Bike,24.2,1.16,13,9.4,570.35,Clear,On Time
+ORD1281,West,Van,32.7,1.13,8,11.7,620.39,Clear,Delayed
+ORD1282,South,Truck,44.0,1.39,5,9.3,737.18,Rainy,On Time
+ORD1283,South,Van,50.2,1.61,8,16.8,872.95,Clear,On Time
+ORD1284,North,Bike,58.1,1.95,8,16.5,846.39,Clear,Delayed
+ORD1285,East,Van,41.3,1.58,8,15.4,797.02,Rainy,On Time
+ORD1286,North,Bike,13.7,0.45,6,12.2,430.2,Clear,Delayed
+ORD1287,South,Bike,47.4,1.84,8,8.0,675.46,Rainy,On Time
+ORD1288,East,Bike,23.0,1.04,7,7.9,372.9,Clear,On Time
+ORD1289,South,Bike,77.2,2.45,8,9.1,908.71,Clear,On Time
+ORD1290,East,Bike,37.1,1.37,8,10.1,573.13,Clear,On Time
+ORD1291,North,Bike,42.9,1.9,12,15.5,770.42,Rainy,On Time
+ORD1292,North,Van,120.0,4.18,11,16.7,1592.87,Rainy,On Time
+ORD1293,West,Bike,58.7,2.39,9,8.5,753.28,Rainy,On Time
+ORD1294,South,Bike,46.9,1.73,12,20.8,889.14,Clear,On Time
+ORD1295,North,Truck,33.3,1.1,8,7.6,624.85,Rainy,On Time
+ORD1296,East,Van,14.6,0.58,12,14.0,428.59,Clear,Delayed
+ORD1297,West,Van,31.7,1.19,5,7.3,571.6,Clear,Delayed
+ORD1298,North,Bike,19.7,1.05,7,13.3,427.9,Rainy,Delayed
+ORD1299,East,Bike,96.7,3.19,9,16.3,1105.46,Clear,On Time
+ORD1300,North,Bike,47.3,1.95,13,21.7,865.16,Clear,On Time
